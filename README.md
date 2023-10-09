@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Spring Microservices](https://github.com/MXMxRazer/E-Inventory-Management-System)
 
-- 🌱 I’m currently learning **Spring Ecosystem, Statistics AI/ML**
+- 🌱 I’m currently learning **Spring Ecosystem, Statistics AI/ML, System Architecture and Design**
 
 - 💬 Ask me about **spring, react, hibernate, express, nest, RESTFul Services**
 
