@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Spring Ecosystem, Statistics AI/ML**
 
-- 💬 Ask me about **spring, react, hibernate, express**
+- 💬 Ask me about **spring, react, hibernate, express, nest, RESTFul Services**
 
-- 📫 How to reach me **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
+- 📫 Reach me in **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
 
 - 📄 Know about my experiences [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMXMxRazer%2FResume_Kritan_Version_03%2Fmain%2Fresume.docx&wdOrigin=BROWSELINK](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMXMxRazer%2FResume_Kritan_Version_03%2Fmain%2Fresume.docx&wdOrigin=BROWSELINK)
 
