@@ -9,8 +9,8 @@
 
 - 📫 Reach me in **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
 
-- 📄 Know about my experiences [https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMXMxRazer%2FResume_Kritan_Version_03%2Fmain%2Fresume.docx&wdOrigin=BROWSELINK](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FMXMxRazer%2FResume_Kritan_Version_03%2Fmain%2Fresume.docx&wdOrigin=BROWSELINK)
-
+- 📄 Know about my experiences : <a href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/153769ed413f8367b5abc8c495983268e1d7031a/resume_kritan.pdf">Resume</a>
+  
 - ⚡ Fun fact **I think I ask questions in a funny way.**
 
 <h3 align="left">Connect with me:</h3>
