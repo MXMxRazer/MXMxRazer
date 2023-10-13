@@ -9,13 +9,13 @@
 
 - 📫 Reach me in **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
 
-- 📄 Know about my experiences : <a  target="blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/153769ed413f8367b5abc8c495983268e1d7031a/resume_kritan.pdf">Kritan_Resume.pdf</a>
+- 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/153769ed413f8367b5abc8c495983268e1d7031a/resume_kritan.pdf">Kritan_Resume.pdf</a>
   
 - ⚡ Fun fact **I think I ask questions in a funny way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kritantam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritantam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kritantam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritantam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
