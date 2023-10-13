@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/153769ed413f8367b5abc8c495983268e1d7031a/resume_kritan.pdf">Kritan_Resume.pdf</a>
   
-- ⚡ Fun fact **I think I ask questions in a funny way.**
+- ⚡ Fun fact **I think I ask alot of questions out of curiosity that may seem to be stupid for others.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
