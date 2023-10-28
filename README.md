@@ -9,7 +9,7 @@
 
 - 📫 Reach me in **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
 
-- 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/153769ed413f8367b5abc8c495983268e1d7031a/resume_kritan.pdf">Kritan_Resume.pdf</a>
+- 📄 Know about my experiences : <a  target="_blank" href="resume_kritan.pdf">Kritan_Resume.pdf</a>
   
 - ⚡ Fun fact **I think I ask alot of questions out of curiosity that may seem to be stupid for others.**
 
