@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritan Tamrakar</h1>
-<h3 align="center">A passionate Tech Enthusiast and CS Student, who loves Solving Problems.</h3>
+<h3 align="center">A passionate Tech Enthusiast, who loves Solving Problems.</h3>
 
 - 🔭 I’m currently working and learning towards Spring and various Backend based architectures. 
 
