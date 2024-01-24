@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kritan Tamrakar</h1>
 <h3 align="center">A passionate Tech Enthusiast, who loves Solving Problems.</h3>
 
-- 🔭 I’m currently working and learning towards Spring and various Backend based architectures. 
+- 🔭 I’m currently working and learning towards Spring and system architectures with focus on cloud. 
 
-- 🌱 I’m currently learning **Spring Ecosystem, Statistics AI/ML, System Architecture and Design**
+- 🌱 I’m currently learning **Spring Ecosystem, Cloud Structure, System Architecture and Design**
 
-- 💬 Ask me about **spring, react, hibernate, express, nest, RESTFul Services**
+- 💬 Ask me about **spring, react, AWS, node, Azure, RESTFul Services**
 
-- 📫 Reach me in **tamrakar@sheridancollege.ca (college email), let.kritan@gmail.com (personal email)**
+- 📫 Reach me in **let.kritan@gmail.com**
 
 - 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/1407d2ad96458d99b0d0bf159a5e5067e71bd00d/resume_kritan.pdf">Kritan_Resume.pdf</a>
   
