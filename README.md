@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kritan Tamrakar</h1>
 <h3 align="center">A passionate Tech Enthusiast, who loves Solving Problems.</h3>
 
-- 🔭 I’m currently working and learning towards Spring and system architectures with focus on cloud. 
+- 🔭 I’m currently working and learning towards full-system architecture and design with focus on cloud and data science. 
 
-- 🌱 I’m currently learning **Spring Ecosystem, Cloud Structure, System Architecture and Design**
-
-- 💬 Ask me about **spring, react, AWS, node, Azure, RESTFul Services**
+- 🌱 I’m currently learning **MS Ecosystem, Data Science, System Architecture and Design*
 
 - 📫 Reach me in **let.kritan@gmail.com**
 
