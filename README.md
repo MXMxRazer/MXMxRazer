@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working and learning towards full-system architecture and design with focus on cloud and data science. 
 
-- 🌱 I’m currently learning **MS Ecosystem, Data Science, System Architecture and Design*
+- 🌱 I’m currently learning *MS Ecosystem, Data Science, System Architecture and Design*
 
 - 📫 Reach me in **let.kritan@gmail.com**
 
