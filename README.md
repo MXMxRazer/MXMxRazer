@@ -9,7 +9,7 @@
 
 - 📫 Reach me in **let.kritan@gmail.com**
 
-- 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/main/SWE_v11.pdf">SWE_v11.pdf</a>
+- 📄 Know about my experiences : <a  target="_blank" href="https://github.com/MXMxRazer/Resume_Kritan_Latest/blob/main/Resume%20-%20Kritan%20Tamrakar.pdf">Resume - Kritan Tamrakar.pdf</a>
   
 - ⚡ Fun fact **I think I ask alot of questions out of curiosity that may seem to be stupid for others.**
 
